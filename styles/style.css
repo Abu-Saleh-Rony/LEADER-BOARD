@@ -24,7 +24,7 @@ body {
     align-items: center;
     list-style: none;
     height: 50px;
-    padding-left: 10px;
+    padding-left: 50px;
 
 }
 
@@ -35,6 +35,8 @@ body {
 
 .idea {
     color: #F3F1FF;
+    font-size: 25px;
+    font-weight: 400;
 }
 
 .list-items {
@@ -51,11 +53,11 @@ body {
 }
 
 .half-width {
-    margin-left: 240px;
+    margin-left: 230px;
 }
 
 .half-width1 {
-    margin-right: 240px;
+    margin-right: 280px;
 }
 
 
